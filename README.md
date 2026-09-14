@@ -43,4 +43,4 @@ A literature review analyzing the macroeconomic impact of Artificial Intelligenc
 
 Analysis: Cross-references the econometric displacement and wage premium coefficients from the aforementioned studies with OECD demographic data to highlight how AI-driven automation disproportionately impacts female-dominated sectors.  
     Policy Takeaway: Discusses the regulatory context of the EU AI Act, emphasizing the need for gender-sensitive indicators and oversight to prevent algorithmic bias and mitigate the widening gender gap in STEM.  
-    PDF
+
